@@ -11,7 +11,7 @@ const LoginPage = ({setAuthenticate}) => {
   const loginUser = (e) => {
     e.preventDefault();
     console.log("Login user function issue")
-    setAuthenticate(true)
+    setAuthenticate(true);
     navigate('/')
   }
   

@@ -67,7 +67,7 @@ body {
 }
 .search-area {
   position: absolute;
-  right: 0;
+  right: 0; top: 20px;
   width: 180px; height: 34px;
   border-bottom: 1px solid #ccc;
 
